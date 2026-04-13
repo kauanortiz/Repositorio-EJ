@@ -3,9 +3,11 @@
 
 int main(){
 
-    int c = 3;
+    int c = 3, d = 4, soma = 0;
 
     printf("Hello world!");
 
+    printf("Soma: %d\n", c + d);
+    
     return 0;
 }
